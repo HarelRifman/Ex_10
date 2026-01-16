@@ -1,3 +1,4 @@
+git@github.com:HarelRifman/Ex_10.git
 1. Add button now really adds
 2. Added a validation for the password to confirm it has more than eight characters
 3. Clear form fields after creating an article (set title and content to empty strings)
